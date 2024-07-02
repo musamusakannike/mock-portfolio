@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Epilogue", sans-serif;
+}
+
+#logo {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.subtitle {
+  font-weight: 600;
+}
+
+.body-text {
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 27px;
+}
+
+#hero {
+  padding: 42px 24px 42px 24px;
+}
+
+img, svg {
+  max-width: 100%;
+  height: auto;
+}
